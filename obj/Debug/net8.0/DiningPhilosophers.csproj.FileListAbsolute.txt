@@ -1,0 +1,14 @@
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.AssemblyInfoInputs.cache
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.AssemblyInfo.cs
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.csproj.CoreCompileInputs.cache
+C:\Users\DAN\RiderProjects\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.exe
+C:\Users\DAN\RiderProjects\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.deps.json
+C:\Users\DAN\RiderProjects\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.runtimeconfig.json
+C:\Users\DAN\RiderProjects\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.dll
+C:\Users\DAN\RiderProjects\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.pdb
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.dll
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\refint\DiningPhilosophers.dll
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.pdb
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.genruntimeconfig.cache
+C:\Users\DAN\RiderProjects\DiningPhilosophers\obj\Debug\net8.0\ref\DiningPhilosophers.dll
